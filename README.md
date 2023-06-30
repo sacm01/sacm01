@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sacm01
-- 👀 I’m interested in python and hacking ethical
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate in engineering of software
-- 📫 How to reach me: i'm student of Industrial University of Santander (sergio2205555@correo.uis.edu.co)
-
-<!---
-sacm01/sacm01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @sacm01
+- 👀 I'm passionate about electronics, robotics, data science, artificial intelligences, sustainability models and mostly focused on building a great future. 
+- 🌱 I am currently learning python, electronics, AI, robotics and other tools.
+- 💞️ I am looking to collaborate in software engineering, process engineering and more lines of mechatronics engineering.
+- How to reach me: I am a student at the Universidad Industrial de Santander (sergio2205555@correo.uis.edu.co).
